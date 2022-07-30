@@ -1,0 +1,11 @@
+.contenedor{
+    display:flex;
+    flex-direction:row-reverse;
+    background-color:aquamarine;
+    }
+
+.elemento{
+    width:25%;
+    text-align: center;
+        
+    }
