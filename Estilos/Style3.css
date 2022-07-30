@@ -1,0 +1,13 @@
+.contenedor{
+    display:flex;
+    flex-direction:column;
+    background-color: lightcoral;
+    column-width: 25%;
+    }
+
+.elemento{
+    width:25%;
+    
+    text-align: center;
+        
+    }
