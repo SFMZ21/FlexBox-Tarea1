@@ -1,0 +1,11 @@
+.contenedor{
+    display:flex;
+    flex-wrap:wrap;
+    background-color: rgb(94, 187, 218);
+    }
+
+    .elemento{
+        width:25%;
+        text-align: center;
+            
+        }

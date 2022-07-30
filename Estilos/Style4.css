@@ -1,0 +1,10 @@
+.contenedor{
+    display:flex;
+    flex-direction:column-reverse;
+    background-color:darkseagreen;
+    }
+    .elemento{
+        width:25%;
+        text-align: center;
+            
+        }
