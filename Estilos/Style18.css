@@ -1,0 +1,28 @@
+.contenedor{
+    height:240px;
+    display:flex;
+    flex-flow:row wrap;
+    align-items:baseline;
+    }
+    .elemento{
+    width:21%;
+    line-height:2rem;
+    background-color: rgba(41, 226, 121, 0.805);
+    }
+    .elemento:first-child{
+    line-height:4rem;
+    background-color: rgba(41, 226, 121, 0.982);
+    }
+    .elemento:nth-child(3){
+    font-size:1rem;
+    line-height:1.2rem;
+    background-color: rgba(45, 152, 91, 0.805);
+    }
+    .elemento:nth-child(6){
+    font-size:3rem;
+    line-height:5rem;
+    background-color: rgba(4, 137, 62, 0.805);
+    }
+    .elemento:last-child{
+    line-height:3rem;
+    }
