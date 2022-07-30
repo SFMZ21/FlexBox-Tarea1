@@ -1,0 +1,12 @@
+.contenedor{
+    display:flex;
+    }
+    .elemento{
+    flex:1 1 0;
+    width:21%;
+    background-color: rgba(208, 94, 158, 0.607);
+    text-align: center;
+    }
+    .elemento:nth-child(4){
+    flex-grow:3;
+    }

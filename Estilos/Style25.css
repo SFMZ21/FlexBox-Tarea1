@@ -1,0 +1,12 @@
+.contenedor{
+    display:flex;
+    }
+    .elemento:nth-child(even){
+    order:1;
+    
+    }
+    .elemento{
+        width:21%;
+        background-color: rgba(115, 196, 198, 0.805);
+        text-align: center;
+        }
