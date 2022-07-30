@@ -3,4 +3,11 @@
     flex-direction:row-reverse;
     flex-wrap:wrap;
     justify-content:flex-end;
+    background-color: rgba(190, 255, 27, 0.959);
     }
+
+    .elemento{
+        width:25%;
+        text-align: center;
+                
+        }

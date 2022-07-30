@@ -1,0 +1,13 @@
+
+.contenedor{
+display:flex;
+flex-direction:row;
+flex-wrap:wrap;
+justify-content:flex-start;
+background-color: rgba(225, 255, 27, 0.423);
+}
+.elemento{
+    width:25%;
+    text-align: center;
+            
+    }
