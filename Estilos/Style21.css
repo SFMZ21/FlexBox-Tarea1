@@ -1,0 +1,11 @@
+.contenedor{
+    height:240px;
+    display:flex;
+    flex-flow:row wrap;
+    align-content:flex-end;
+    }
+    .elemento{
+        width:21%;
+        background-color: rgba(155, 61, 94, 0.805);
+        text-align: center;
+        }
